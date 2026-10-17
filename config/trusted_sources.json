@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "name": "WHO",
+      "domain": "who.int",
+      "base_url": "https://www.who.int/health-topics/mental-health",
+      "allowed_document_types": ["html", "pdf"],
+      "topics": ["mental health", "mental disorders", "anxiety", "depression", "bipolar", "schizophrenia", "psychosis", "ptsd", "post-traumatic stress", "eating disorder", "suicide", "self-harm"]
+    },
+    {
+      "name": "NIMH",
+      "domain": "nimh.nih.gov",
+      "base_url": "https://www.nimh.nih.gov/health/topics",
+      "allowed_document_types": ["html", "pdf"],
+      "topics": ["mental health", "anxiety", "depression", "bipolar", "schizophrenia", "psychosis", "ptsd", "post-traumatic stress", "eating disorder", "obsessive-compulsive", "adhd", "panic", "suicide", "self-harm"]
+    },
+    {
+      "name": "NICE",
+      "domain": "nice.org.uk",
+      "base_url": "https://www.nice.org.uk/guidance/conditions-and-diseases/mental-health-and-behavioural-conditions",
+      "allowed_document_types": ["html", "pdf"],
+      "topics": ["mental health", "anxiety", "depression", "bipolar", "schizophrenia", "psychosis", "ptsd", "post-traumatic stress", "eating disorder", "obsessive-compulsive", "self-harm", "suicide"]
+    }
+  ]
+}

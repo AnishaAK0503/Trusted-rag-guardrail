@@ -1,0 +1,8 @@
+[
+  {"query": "What are common symptoms of anxiety?", "relevant_keywords": ["anxiety"]},
+  {"query": "How is depression treated?", "relevant_keywords": ["depression"]},
+  {"query": "What is bipolar disorder?", "relevant_keywords": ["bipolar"]},
+  {"query": "What are the symptoms of PTSD?", "relevant_keywords": ["ptsd", "post-traumatic"]},
+  {"query": "What are warning signs of suicide?", "relevant_keywords": ["suicide", "self-harm"]},
+  {"query": "What are eating disorders?", "relevant_keywords": ["eating disorder"]}
+]
